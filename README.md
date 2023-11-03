@@ -1,5 +1,3 @@
-[![GitHub followers](https://img.shields.io/github/followers/AllenFang.svg?style=social&label=Followers)](https://github.com/AllenFang?tab=followers)
-##### GitHub Activeness
 <!--- stats & Trophy (start) -->
 <p align="left">
   <!--- stats (start) -->
@@ -19,11 +17,11 @@
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
-<div align=left>
+<!-- <div align=left>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="left"  src="https://github-profile-trophy.vercel.app/?username=AllenFang&theme=juicyfresh&no-bg=true" alt="TROPHY" />
     </a>
-</div>
+</div> -->
 <!--- trophy (start) -->
 
 
